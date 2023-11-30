@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christoffer aka MrScarn</h1>
-<h3 align="center">Working as a Cisco Networking Academy instructor in Sweden</h3>
+<h3 align="center">Working as a computer science teacher and a Cisco Networking Academy instructor in Sweden</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
